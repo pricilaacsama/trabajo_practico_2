@@ -1,5 +1,4 @@
 package ar.edu.unju.fi.main;
-
 import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.Scanner;
