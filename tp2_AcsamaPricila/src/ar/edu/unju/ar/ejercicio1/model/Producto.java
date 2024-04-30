@@ -1,4 +1,4 @@
-package ar.edu.unju.ar.model;
+package ar.edu.unju.ar.ejercicio1.model;
 
 public class Producto {
 	

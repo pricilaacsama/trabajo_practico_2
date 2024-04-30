@@ -1,10 +1,10 @@
-package ar.edu.unju.fi.main;
+package ar.edu.unju.fi.ejercicio1.main;
 import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-import ar.edu.unju.ar.model.Producto;
-import ar.edu.unju.ar.model.Producto.OrigenFabricacion;
+import ar.edu.unju.ar.ejercicio1.model.Producto;
+import ar.edu.unju.ar.ejercicio1.model.Producto.OrigenFabricacion;
 
 public class Main {
 
@@ -250,7 +250,6 @@ public class Main {
         System.out.println("5 - Volver al menú principal");
         System.out.print("Elija una opción: ");
     }
-	
 	
 	
 }
