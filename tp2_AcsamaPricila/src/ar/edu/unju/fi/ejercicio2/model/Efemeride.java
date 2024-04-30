@@ -46,7 +46,6 @@ public class Efemeride {
 		this.dia = dia;
 	}
 
-
 	public String getDetalle() {
 		return detalle;
 	}
