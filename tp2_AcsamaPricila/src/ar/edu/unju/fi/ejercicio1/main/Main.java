@@ -3,8 +3,8 @@ import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-import ar.edu.unju.ar.ejercicio1.model.Producto;
-import ar.edu.unju.ar.ejercicio1.model.Producto.OrigenFabricacion;
+import ar.edu.unju.fi.ejercicio1.model.Producto;
+import ar.edu.unju.fi.ejercicio1.model.Producto.OrigenFabricacion;
 
 public class Main {
 
